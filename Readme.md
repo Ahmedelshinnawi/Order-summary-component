@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML](https://github.com/Ahmedelshinnawi/Order-summary-component/blob/main/order-summary-component-main/index.html)
-- Solution URL: [CSS](https://github.com/Ahmedelshinnawi/Order-summary-component/blob/main/order-summary-component-main/Style.css)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [HTML](https://github.com/Ahmedelshinnawi/Order-summary-component/blob/main/index.html)
+- Solution URL: [CSS](https://github.com/Ahmedelshinnawi/Order-summary-component/blob/main/Style.css)
+- Live Site URL: [Live demo](https://ahmedelshinnawi.github.io/Order-summary-component/index.html)
 
 
 ### Built with
