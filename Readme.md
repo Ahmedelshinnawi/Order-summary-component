@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![order summary](https://github.com/user-attachments/assets/92c4f1ea-9009-4056-a94c-8903dedbf779)
+![Order summary](https://github.com/user-attachments/assets/64716490-2c16-4d87-9aa0-0fbd0f32b4b7)
 
 ### Links
 
